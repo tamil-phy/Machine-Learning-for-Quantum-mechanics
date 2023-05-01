@@ -1,4 +1,4 @@
-# Machine-Learning-for-Quantum-mechanics
+# Using NN to solve Schrodinger Equation
 Solving quantum mechanics basic driving equations using Neural Network
 
 
